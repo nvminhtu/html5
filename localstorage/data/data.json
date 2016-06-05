@@ -1,0 +1,26 @@
+{
+
+    "contacts": [
+
+        {   "first"   : "Joe",          "last"    : "Bloggs"        },
+        {   "first"   : "Mary",             "last"    : "Johnson"       },
+        {   "first"   : "Paul",             "last"    : "Smith"                 },
+        {   "first"   : "Tina",     "last"    : "Clarks"                }
+
+    ],
+    "districts": [
+      {
+        "slug": "govap",
+        "name": "Gò Vấp"
+      },
+      {
+        "slug": "binhthanh",
+        "name": "Bình Thạnh"
+      },
+      {
+        "slug": "tanbinh",
+        "name": "Tân Bình"
+      }
+    ]
+
+}
